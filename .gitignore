@@ -1,0 +1,6 @@
+**/[Ll]ibrary/
+**/[Ll]og/
+**/[Ll]ogs/
+**/[Bb]uild*/
+**/[Oo]bj/
+**/*.csproj

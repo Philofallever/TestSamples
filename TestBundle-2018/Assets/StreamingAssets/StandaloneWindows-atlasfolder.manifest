@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 370004922
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab
+      Dependencies:
+        Dependency_0: atlas
+    Info_1:
+      Name: atlas
+      Dependencies: {}

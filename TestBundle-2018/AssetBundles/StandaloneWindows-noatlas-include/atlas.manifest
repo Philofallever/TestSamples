@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2871374726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae83711ec386d1e4f1817436e313c534
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/wg_btn_zkj02.png
+- Assets/wg_btn_zkj03.png
+- Assets/wg_btn_zkj04.png
+- Assets/wg_btn_zkj01.png
+Dependencies: []

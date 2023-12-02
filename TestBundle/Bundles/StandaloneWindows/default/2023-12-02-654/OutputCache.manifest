@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2139547741
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: default_assets_uiprefab 1.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas_wg_btn_zkj03.bundle
+    Info_1:
+      Name: default_assets_uiprefab.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas_wg_btn_zkj03.bundle
+    Info_2:
+      Name: default_assets_atlas_atlas.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas_wg_btn_zkj01.bundle
+        Dependency_1: default_assets_atlas_wg_btn_zkj02.bundle
+        Dependency_2: default_assets_atlas_wg_btn_zkj03.bundle
+        Dependency_3: default_assets_atlas_wg_btn_zkj04.bundle
+    Info_3:
+      Name: default_assets_atlas_wg_btn_zkj01.bundle
+      Dependencies: {}
+    Info_4:
+      Name: default_assets_atlas_wg_btn_zkj02.bundle
+      Dependencies: {}
+    Info_5:
+      Name: default_assets_atlas_wg_btn_zkj03.bundle
+      Dependencies: {}
+    Info_6:
+      Name: default_assets_atlas_wg_btn_zkj04.bundle
+      Dependencies: {}

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 80757141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84445f29f881ffd14078ec6435e0aeee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Atlas/Atlas.spriteatlas
+Dependencies:
+- F:/repos/TestSamples/TestBundle/Bundles/StandaloneWindows/default/OutputCache/default_assets_atlas_wg_btn_zkj01.bundle
+- F:/repos/TestSamples/TestBundle/Bundles/StandaloneWindows/default/OutputCache/default_assets_atlas_wg_btn_zkj02.bundle
+- F:/repos/TestSamples/TestBundle/Bundles/StandaloneWindows/default/OutputCache/default_assets_atlas_wg_btn_zkj03.bundle
+- F:/repos/TestSamples/TestBundle/Bundles/StandaloneWindows/default/OutputCache/default_assets_atlas_wg_btn_zkj04.bundle
