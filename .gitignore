@@ -1,6 +1,7 @@
 **/[Ll]ibrary/
 **/[Ll]og/
 **/[Ll]ogs/
-**/[Bb]uild*/
+**/[Bb]uild/
 **/[Oo]bj/
 **/*.csproj
+**/[Tt]emp/

@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.0.3-preview",
         "UnityVersion": "2021.3.27f1",
-        "BuildDate": "2023/12/2 10:58:18",
+        "BuildDate": "2023/12/4 9:20:02",
         "BuildSeconds": 2,
         "BuildTarget": 5,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "default",
-        "BuildPackageVersion": "2023-12-02-654",
+        "BuildPackageVersion": "2023-12-04-559",
         "UniqueBundleName": true,
         "EnableAddressable": false,
         "LocationToLower": true,
@@ -16,14 +16,14 @@
         "IgnoreDefaultType": true,
         "AutoCollectShaders": true,
         "EncryptionClassName": "null",
-        "FileNameStyle": 1,
+        "FileNameStyle": 2,
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
         "AssetFileTotalCount": 7,
         "MainAssetTotalCount": 7,
         "AllBundleTotalCount": 7,
-        "AllBundleTotalSize": 29377,
+        "AllBundleTotalSize": 29373,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -34,7 +34,7 @@
             "AssetGUID": "ca0aeffbbab55bf4fbfc49dd296b7d7e",
             "AssetTags": [],
             "MainBundleName": "default_assets_uiprefab 1.bundle",
-            "MainBundleSize": 3709,
+            "MainBundleSize": 3705,
             "DependAssets": [
                 "Assets/Atlas/wg_btn_zkj03.png"
             ]
@@ -104,10 +104,10 @@
     "BundleInfos": [
         {
             "BundleName": "default_assets_uiprefab 1.bundle",
-            "FileName": "default_assets_uiprefab 1.bundle",
-            "FileHash": "be37bbbad683f0f6524a25614cc2cd5a",
-            "FileCRC": "473f6eb2",
-            "FileSize": 3709,
+            "FileName": "default_assets_uiprefab 1_187e244f9de61740923a0c515a350d59.bundle",
+            "FileHash": "187e244f9de61740923a0c515a350d59",
+            "FileCRC": "dad66547",
+            "FileSize": 3705,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -119,7 +119,7 @@
         },
         {
             "BundleName": "default_assets_uiprefab.bundle",
-            "FileName": "default_assets_uiprefab.bundle",
+            "FileName": "default_assets_uiprefab_104f262d04935dd19ee8388e85bb2eab.bundle",
             "FileHash": "104f262d04935dd19ee8388e85bb2eab",
             "FileCRC": "7249a2be",
             "FileSize": 3709,
@@ -134,7 +134,7 @@
         },
         {
             "BundleName": "default_assets_atlas_atlas.bundle",
-            "FileName": "default_assets_atlas_atlas.bundle",
+            "FileName": "default_assets_atlas_atlas_8e7883513670ae9f2f242e3cf24c16ad.bundle",
             "FileHash": "8e7883513670ae9f2f242e3cf24c16ad",
             "FileCRC": "317de0c2",
             "FileSize": 7828,
@@ -152,7 +152,7 @@
         },
         {
             "BundleName": "default_assets_atlas_wg_btn_zkj01.bundle",
-            "FileName": "default_assets_atlas_wg_btn_zkj01.bundle",
+            "FileName": "default_assets_atlas_wg_btn_zkj01_5cc1781d4a9dcfea403cd689a22b4b67.bundle",
             "FileHash": "5cc1781d4a9dcfea403cd689a22b4b67",
             "FileCRC": "defd9c7e",
             "FileSize": 3541,
@@ -165,7 +165,7 @@
         },
         {
             "BundleName": "default_assets_atlas_wg_btn_zkj02.bundle",
-            "FileName": "default_assets_atlas_wg_btn_zkj02.bundle",
+            "FileName": "default_assets_atlas_wg_btn_zkj02_64b8a629ad058cf5df8480fdbdd759ee.bundle",
             "FileHash": "64b8a629ad058cf5df8480fdbdd759ee",
             "FileCRC": "5d29b4e0",
             "FileSize": 3540,
@@ -178,7 +178,7 @@
         },
         {
             "BundleName": "default_assets_atlas_wg_btn_zkj03.bundle",
-            "FileName": "default_assets_atlas_wg_btn_zkj03.bundle",
+            "FileName": "default_assets_atlas_wg_btn_zkj03_13be40fbc27df4c4b811c551e751be82.bundle",
             "FileHash": "13be40fbc27df4c4b811c551e751be82",
             "FileCRC": "f4afd6ac",
             "FileSize": 3525,
@@ -191,7 +191,7 @@
         },
         {
             "BundleName": "default_assets_atlas_wg_btn_zkj04.bundle",
-            "FileName": "default_assets_atlas_wg_btn_zkj04.bundle",
+            "FileName": "default_assets_atlas_wg_btn_zkj04_756d550c0354177d6765b9f904696bf6.bundle",
             "FileHash": "756d550c0354177d6765b9f904696bf6",
             "FileCRC": "05dd12b3",
             "FileSize": 3525,

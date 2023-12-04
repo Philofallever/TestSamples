@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 479084129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98f455ed53f3d405c31e4bd28a60b099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dfdbf97965cdf0440de7ff54323d64b7
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/atlas/wg_btn_zkj02.png
+Dependencies: []

@@ -3,10 +3,10 @@
     "EnableAddressable": false,
     "LocationToLower": true,
     "IncludeAssetGUID": false,
-    "OutputNameStyle": 1,
+    "OutputNameStyle": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "default",
-    "PackageVersion": "2023-12-02-654",
+    "PackageVersion": "2023-12-04-559",
     "AssetList": [
         {
             "Address": "",
@@ -61,10 +61,10 @@
     "BundleList": [
         {
             "BundleName": "default_assets_uiprefab 1.bundle",
-            "UnityCRC": 1006488514,
-            "FileHash": "be37bbbad683f0f6524a25614cc2cd5a",
-            "FileCRC": "473f6eb2",
-            "FileSize": 3709,
+            "UnityCRC": 1828957720,
+            "FileHash": "187e244f9de61740923a0c515a350d59",
+            "FileCRC": "dad66547",
+            "FileSize": 3705,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
