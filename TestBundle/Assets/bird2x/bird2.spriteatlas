@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bird2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b283f2b1d05eea14e970b3d8fe4a46d5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0db81300046f1224fb7559eba9ee10af, type: 3}
+  - {fileID: 21300000, guid: ff2e19411e80d294691cfd0ff7d145cc, type: 3}
+  - {fileID: 21300000, guid: 19c91b41ae91b8a4fb1a25284bbf712b, type: 3}
+  - {fileID: 21300000, guid: 99b692813c2af9e44a65f2af68af7e75, type: 3}
+  - {fileID: 21300000, guid: f4b6a4c2e11af874b8a9e58174eaceef, type: 3}
+  - {fileID: 21300000, guid: 2d46860387f859d4a962ba2f1bf16395, type: 3}
+  - {fileID: 21300000, guid: 4af317a38e87a8d40931f2de7716b481, type: 3}
+  - {fileID: 21300000, guid: 375c8014382ee5a4da6b54fdf6fc15b4, type: 3}
+  - {fileID: 21300000, guid: 0d1706449e06ff54fae5bcb34bd01ed8, type: 3}
+  - {fileID: 21300000, guid: ccb2d545dd7b8d444ab6fd0368924582, type: 3}
+  - {fileID: 21300000, guid: f62fb555c63ef2044b4a132f4ab03c9b, type: 3}
+  - {fileID: 21300000, guid: a17345d57d980e143bf92cca8765289b, type: 3}
+  - {fileID: 21300000, guid: 059c3676539892a4a9109e6984114c0a, type: 3}
+  - {fileID: 21300000, guid: 99988b075a6e7d747bc2b85a92c26667, type: 3}
+  - {fileID: 21300000, guid: da071908845a7f7409e0a59322f7db49, type: 3}
+  - {fileID: 21300000, guid: e6c93228a6f73ce4d917ddcdfaf5eaee, type: 3}
+  - {fileID: 21300000, guid: 5e2ae398c8b83b94dbb17dd25ce5eaa0, type: 3}
+  - {fileID: 21300000, guid: e0c0329970e88964a97285fd152e05d0, type: 3}
+  - {fileID: 21300000, guid: 1cf9d59954ef9434a85391560d4c4852, type: 3}
+  - {fileID: 21300000, guid: 484e99b99032649428561b78af46f287, type: 3}
+  - {fileID: 21300000, guid: ff5ad65af402cdf408995fe9a8597f6b, type: 3}
+  - {fileID: 21300000, guid: 8e43bbeb6f190894e949ee2877c45bca, type: 3}
+  - {fileID: 21300000, guid: f712206cf13b212498eceed90f8d93d6, type: 3}
+  - {fileID: 21300000, guid: 401164ec2d74cb84b8cae9c51313dccb, type: 3}
+  - {fileID: 21300000, guid: a239e20dcae6d9e4da8be94ab7998dd9, type: 3}
+  - {fileID: 21300000, guid: 14343c0d9c3a83c409bb3fe6f4597430, type: 3}
+  - {fileID: 21300000, guid: fcbf762d0cd67b249afaecfe8abbafcf, type: 3}
+  - {fileID: 21300000, guid: 6cd7cebd63759ae4fb128813292e5743, type: 3}
+  - {fileID: 21300000, guid: 3f76af0e962a93e409ed7d1491951d15, type: 3}
+  - {fileID: 21300000, guid: 83218a5e84204404698ba3ccefa45990, type: 3}
+  - {fileID: 21300000, guid: 5631a86e1edbb8e4ea9bdc5702ca9008, type: 3}
+  - {fileID: 21300000, guid: 97c82f8ee4ebf064e98107ad89babbd7, type: 3}
+  - {fileID: 21300000, guid: 10f1049e4825c4d4ca5bc539d875743f, type: 3}
+  - {fileID: 21300000, guid: 29b9567ffaac42847a9ba2974462a648, type: 3}
+  - {fileID: 21300000, guid: 33cf2aefb8b9326468da496b1642f273, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 000015
+  - 000024
+  - 000018
+  - 000003
+  - 000013
+  - 000004
+  - 000034
+  - 000021
+  - 000023
+  - 000020
+  - 000028
+  - 000014
+  - 000010
+  - 000031
+  - 000007
+  - 000032
+  - 000025
+  - 000012
+  - 000029
+  - 000022
+  - 000027
+  - 000030
+  - 000005
+  - 000000
+  - 000008
+  - 000026
+  - 000001
+  - 000033
+  - 000019
+  - 000006
+  - 000009
+  - 000016
+  - 000017
+  - 000002
+  - 000011
+  m_RenderDataMap: {}
+  m_Tag: bird2
+  m_IsVariant: 0

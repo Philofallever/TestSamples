@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3520484155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7735670f62c3af0edb6a08a4882106a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/atlas/atlas.spriteatlas
+Dependencies:
+- F:/repos/TestSamples/TestBundle-2018/AssetBundles/StandaloneWindows-atlasfolder/atlaspng

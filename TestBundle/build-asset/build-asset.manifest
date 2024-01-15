@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2175279572
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: system/atlas.ab
+      Dependencies: {}
+    Info_1:
+      Name: system/uiprefab.ab
+      Dependencies:
+        Dependency_0: system/atlas.ab
+    Info_2:
+      Name: oneatlas
+      Dependencies: {}

@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1520289521
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: default_assets_uiprefab 1.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas.bundle
+    Info_1:
+      Name: default_assets_uiprefab.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas.bundle
+    Info_2:
+      Name: default_assets_atlas.bundle
+      Dependencies: {}

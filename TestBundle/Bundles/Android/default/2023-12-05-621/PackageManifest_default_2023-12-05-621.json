@@ -1,0 +1,97 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": false,
+    "LocationToLower": true,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "default",
+    "PackageVersion": "2023-12-05-621",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/UIPrefab 1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/UIPrefab.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Atlas/Atlas2.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Atlas/wg_btn_zkj01.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Atlas/wg_btn_zkj02.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Atlas/wg_btn_zkj03.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Atlas/wg_btn_zkj04.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "default_assets_uiprefab 1.bundle",
+            "UnityCRC": 793629476,
+            "FileHash": "afb1a8747bce427d2ebcaabfe745b849",
+            "FileCRC": "c6911adc",
+            "FileSize": 3703,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                2
+            ]
+        },
+        {
+            "BundleName": "default_assets_uiprefab.bundle",
+            "UnityCRC": 4057268809,
+            "FileHash": "3666a09372b0d003b7b411948df090ad",
+            "FileCRC": "f80ba5f4",
+            "FileSize": 3697,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                2
+            ]
+        },
+        {
+            "BundleName": "default_assets_atlas.bundle",
+            "UnityCRC": 3985709224,
+            "FileHash": "b258a4d0fc0f1a0726cbd2f0cdb21d7f",
+            "FileCRC": "5e01b4bb",
+            "FileSize": 10532,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

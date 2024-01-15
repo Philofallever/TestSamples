@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 943282071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f228b9ab9059eb70dc9396506313654d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bird/000029.png
+- Assets/Bird/000026.png
+- Assets/Bird/bird.spriteatlas
+- Assets/Bird/000034.png
+- Assets/Bird/000000.png
+- Assets/Bird/000027.png
+- Assets/Bird/000003.png
+- Assets/Bird/000007.png
+- Assets/Bird/000011.png
+- Assets/Bird/000008.png
+- Assets/Bird/000016.png
+- Assets/Bird/000033.png
+- Assets/Bird/000024.png
+- Assets/Bird/000013.png
+- Assets/Bird/000025.png
+- Assets/Bird/000015.png
+- Assets/Bird/000004.png
+- Assets/Bird/000010.png
+- Assets/Bird/000031.png
+- Assets/Bird/000012.png
+- Assets/Bird/000002.png
+- Assets/Bird/000006.png
+- Assets/Bird/000014.png
+- Assets/Bird/000028.png
+- Assets/Bird/000030.png
+- Assets/Bird/000009.png
+- Assets/Bird/000018.png
+- Assets/Bird/000032.png
+- Assets/Bird/000021.png
+- Assets/Bird/000022.png
+- Assets/Bird/000017.png
+- Assets/Bird/000019.png
+- Assets/Bird/000020.png
+- Assets/Bird/000023.png
+- Assets/Bird/000001.png
+- Assets/Bird/000005.png
+Dependencies: []

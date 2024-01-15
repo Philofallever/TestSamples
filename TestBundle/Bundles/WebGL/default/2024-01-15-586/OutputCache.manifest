@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 391729225
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: default_brid2atlas.bundle
+      Dependencies: {}
+    Info_1:
+      Name: default_birdprefab2.bundle
+      Dependencies:
+        Dependency_0: default_brid2atlas.bundle

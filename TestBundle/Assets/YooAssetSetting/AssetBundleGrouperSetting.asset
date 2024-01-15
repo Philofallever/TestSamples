@@ -24,10 +24,10 @@ MonoBehaviour:
     IgnoreDefaultType: 1
     AutoCollectShaders: 1
     Groups:
-    - GroupName: g1
+    - GroupName: prefab1
       GroupDesc: 
       AssetTags: 
-      ActiveRuleName: EnableGroup
+      ActiveRuleName: DisableGroup
       Collectors:
       - CollectPath: Assets/UIPrefab 1.prefab
         CollectorGUID: ca0aeffbbab55bf4fbfc49dd296b7d7e
@@ -40,7 +40,7 @@ MonoBehaviour:
     - GroupName: g2
       GroupDesc: 
       AssetTags: 
-      ActiveRuleName: EnableGroup
+      ActiveRuleName: DisableGroup
       Collectors:
       - CollectPath: Assets/UIPrefab.prefab
         CollectorGUID: b09f736f6e0b8694ebb9b49705f03a8b
@@ -53,13 +53,133 @@ MonoBehaviour:
     - GroupName: atlas
       GroupDesc: 
       AssetTags: 
-      ActiveRuleName: EnableGroup
+      ActiveRuleName: DisableGroup
       Collectors:
       - CollectPath: Assets/Atlas
         CollectorGUID: 40df268641d12f84796308c8719ca12e
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: texture
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/bg_incity01.png
+        CollectorGUID: b8d81cda14f2d8f42aa2531a60b7fd28
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/bg_incity01-1.png
+        CollectorGUID: 8307f0979e1c5f74c9a874d7523276e9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: bird
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/Bird
+        CollectorGUID: 486a8d25b0d97644eaed81316b0af7df
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: bird-1
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/Bird-1
+        CollectorGUID: 49f79d6a30a9d27409ad8d52da1ab7e4
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: audio
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/fighting.mp3
+        CollectorGUID: 80bace560453b7648b0aac04059cf166
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/home.mp3
+        CollectorGUID: 2d11c543e653e6642a36d8cc56f79934
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: bridv
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/BirdV
+        CollectorGUID: 2630869019451f3488c67cd1d4c7804b
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: brid2atlas
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/bird2x
+        CollectorGUID: 53c8b77ead3f6e540aae8a26b7bcd86f
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: brid2atlas
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Bird-2
+        CollectorGUID: b283f2b1d05eea14e970b3d8fe4a46d5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: birdprefab2
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/UIPrefab-brid2.prefab
+        CollectorGUID: 345e4b2278e51624b9380354217db4f8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackGroup
         FilterRuleName: CollectAll
         AssetTags: 
         UserData: 
@@ -76,8 +196,8 @@ MonoBehaviour:
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/Atlas.spriteatlas
-        CollectorGUID: 8442f8e1cac6fca4c9d92a5d7cda0b2e
+      - CollectPath: Assets/Atlas/Atlas.spriteatlas
+        CollectorGUID: 
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory

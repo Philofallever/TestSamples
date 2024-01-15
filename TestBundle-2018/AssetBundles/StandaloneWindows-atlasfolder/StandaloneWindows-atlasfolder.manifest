@@ -1,15 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2973693548
+CRC: 680914209
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: prefab
+      Name: uiprefab
       Dependencies:
-        Dependency_0: atlas
+        Dependency_0: atlaspng
     Info_1:
-      Name: atlas
-      Dependencies: {}
-    Info_2:
-      Name: prefab2
+      Name: atlasprefab
       Dependencies:
-        Dependency_0: atlas
+        Dependency_0: altas
+    Info_2:
+      Name: altas
+      Dependencies:
+        Dependency_0: atlaspng
+    Info_3:
+      Name: atlaspng
+      Dependencies: {}

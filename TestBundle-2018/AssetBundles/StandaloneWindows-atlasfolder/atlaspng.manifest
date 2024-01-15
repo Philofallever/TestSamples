@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1132998781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9550f61f4a81f8371180dbc71341926c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/atlas/wg_btn_zkj05.png
+- Assets/atlas/wg_btn_zkj11.png
+- Assets/atlas/wg_btn_zkj12.png
+- Assets/atlas/wg_btn_zkj02.png
+- Assets/atlas/wg_btn_zkj03.png
+- Assets/atlas/wg_btn_zkj06.png
+- Assets/atlas/wg_btn_zkj09.png
+- Assets/atlas/wg_btn_zkj10.png
+- Assets/atlas/wg_btn_zkj04.png
+- Assets/atlas/wg_btn_zkj07.png
+- Assets/atlas/wg_btn_zkj08.png
+- Assets/atlas/wg_btn_zkj01.png
+Dependencies: []

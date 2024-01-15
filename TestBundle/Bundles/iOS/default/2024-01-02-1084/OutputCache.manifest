@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1336552626
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: default_assets_uiprefab 1.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas.bundle
+    Info_1:
+      Name: default_assets_uiprefab.bundle
+      Dependencies:
+        Dependency_0: default_assets_atlas.bundle
+    Info_2:
+      Name: default_assets_atlas.bundle
+      Dependencies: {}
+    Info_3:
+      Name: default_assets_bg_incity01.bundle
+      Dependencies: {}
+    Info_4:
+      Name: default_assets_bg_incity01-1.bundle
+      Dependencies: {}
+    Info_5:
+      Name: default_bird.bundle
+      Dependencies: {}
+    Info_6:
+      Name: default_bird-1.bundle
+      Dependencies: {}
+    Info_7:
+      Name: default_iconv.bundle
+      Dependencies: {}

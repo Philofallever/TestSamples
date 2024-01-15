@@ -1,0 +1,469 @@
+{
+    "Summary": {
+        "YooVersion": "2.0.3-preview",
+        "UnityVersion": "2021.3.27f1",
+        "BuildDate": "2024/1/15 11:23:46",
+        "BuildSeconds": 5,
+        "BuildTarget": 5,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "default",
+        "BuildPackageVersion": "2024-01-15-683",
+        "UniqueBundleName": true,
+        "EnableAddressable": false,
+        "LocationToLower": true,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 37,
+        "MainAssetTotalCount": 37,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 632221,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/bird2x/bird2.spriteatlas",
+            "AssetGUID": "663c176975ccb1a49a0ef51648b0ac94",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": [
+                "Assets/Bird-2/000022.png",
+                "Assets/Bird-2/000030.png",
+                "Assets/Bird-2/000025.png",
+                "Assets/Bird-2/000014.png",
+                "Assets/Bird-2/000032.png",
+                "Assets/Bird-2/000000.png",
+                "Assets/Bird-2/000007.png",
+                "Assets/Bird-2/000006.png",
+                "Assets/Bird-2/000017.png",
+                "Assets/Bird-2/000008.png",
+                "Assets/Bird-2/000011.png",
+                "Assets/Bird-2/000015.png",
+                "Assets/Bird-2/000004.png",
+                "Assets/Bird-2/000002.png",
+                "Assets/Bird-2/000024.png",
+                "Assets/Bird-2/000021.png",
+                "Assets/Bird-2/000010.png",
+                "Assets/Bird-2/000026.png",
+                "Assets/Bird-2/000033.png",
+                "Assets/Bird-2/000016.png",
+                "Assets/Bird-2/000012.png",
+                "Assets/Bird-2/000013.png",
+                "Assets/Bird-2/000003.png",
+                "Assets/Bird-2/000028.png",
+                "Assets/Bird-2/000009.png",
+                "Assets/Bird-2/000020.png",
+                "Assets/Bird-2/000005.png",
+                "Assets/Bird-2/000031.png",
+                "Assets/Bird-2/000023.png",
+                "Assets/Bird-2/000029.png",
+                "Assets/Bird-2/000034.png",
+                "Assets/Bird-2/000019.png",
+                "Assets/Bird-2/000018.png",
+                "Assets/Bird-2/000027.png",
+                "Assets/Bird-2/000001.png"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000000.png",
+            "AssetGUID": "401164ec2d74cb84b8cae9c51313dccb",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000001.png",
+            "AssetGUID": "fcbf762d0cd67b249afaecfe8abbafcf",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000002.png",
+            "AssetGUID": "29b9567ffaac42847a9ba2974462a648",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000003.png",
+            "AssetGUID": "99b692813c2af9e44a65f2af68af7e75",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000004.png",
+            "AssetGUID": "2d46860387f859d4a962ba2f1bf16395",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000005.png",
+            "AssetGUID": "f712206cf13b212498eceed90f8d93d6",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000006.png",
+            "AssetGUID": "83218a5e84204404698ba3ccefa45990",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000007.png",
+            "AssetGUID": "da071908845a7f7409e0a59322f7db49",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000008.png",
+            "AssetGUID": "a239e20dcae6d9e4da8be94ab7998dd9",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000009.png",
+            "AssetGUID": "5631a86e1edbb8e4ea9bdc5702ca9008",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000010.png",
+            "AssetGUID": "059c3676539892a4a9109e6984114c0a",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000011.png",
+            "AssetGUID": "33cf2aefb8b9326468da496b1642f273",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000012.png",
+            "AssetGUID": "e0c0329970e88964a97285fd152e05d0",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000013.png",
+            "AssetGUID": "f4b6a4c2e11af874b8a9e58174eaceef",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000014.png",
+            "AssetGUID": "a17345d57d980e143bf92cca8765289b",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000015.png",
+            "AssetGUID": "0db81300046f1224fb7559eba9ee10af",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000016.png",
+            "AssetGUID": "97c82f8ee4ebf064e98107ad89babbd7",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000017.png",
+            "AssetGUID": "10f1049e4825c4d4ca5bc539d875743f",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000018.png",
+            "AssetGUID": "19c91b41ae91b8a4fb1a25284bbf712b",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000019.png",
+            "AssetGUID": "3f76af0e962a93e409ed7d1491951d15",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000020.png",
+            "AssetGUID": "ccb2d545dd7b8d444ab6fd0368924582",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000021.png",
+            "AssetGUID": "375c8014382ee5a4da6b54fdf6fc15b4",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000022.png",
+            "AssetGUID": "484e99b99032649428561b78af46f287",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000023.png",
+            "AssetGUID": "0d1706449e06ff54fae5bcb34bd01ed8",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000024.png",
+            "AssetGUID": "ff2e19411e80d294691cfd0ff7d145cc",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000025.png",
+            "AssetGUID": "5e2ae398c8b83b94dbb17dd25ce5eaa0",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000026.png",
+            "AssetGUID": "14343c0d9c3a83c409bb3fe6f4597430",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000027.png",
+            "AssetGUID": "ff5ad65af402cdf408995fe9a8597f6b",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000028.png",
+            "AssetGUID": "f62fb555c63ef2044b4a132f4ab03c9b",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000029.png",
+            "AssetGUID": "1cf9d59954ef9434a85391560d4c4852",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000030.png",
+            "AssetGUID": "8e43bbeb6f190894e949ee2877c45bca",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000031.png",
+            "AssetGUID": "99988b075a6e7d747bc2b85a92c26667",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000032.png",
+            "AssetGUID": "e6c93228a6f73ce4d917ddcdfaf5eaee",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000033.png",
+            "AssetGUID": "6cd7cebd63759ae4fb128813292e5743",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bird-2/000034.png",
+            "AssetGUID": "4af317a38e87a8d40931f2de7716b481",
+            "AssetTags": [],
+            "MainBundleName": "default_brid2atlas.bundle",
+            "MainBundleSize": 628514,
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/UIPrefab-brid2.prefab",
+            "AssetGUID": "345e4b2278e51624b9380354217db4f8",
+            "AssetTags": [],
+            "MainBundleName": "default_birdprefab2.bundle",
+            "MainBundleSize": 3707,
+            "DependAssets": [
+                "Assets/Bird-2/000008.png"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "default_brid2atlas.bundle",
+            "FileName": "default_brid2atlas.bundle",
+            "FileHash": "19d3d8a7d50d1b4898a4275cbe74bd84",
+            "FileCRC": "0c80eed7",
+            "FileSize": 628514,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/bird2x/bird2.spriteatlas",
+                "Assets/Bird-2/000000.png",
+                "Assets/Bird-2/000001.png",
+                "Assets/Bird-2/000002.png",
+                "Assets/Bird-2/000003.png",
+                "Assets/Bird-2/000004.png",
+                "Assets/Bird-2/000005.png",
+                "Assets/Bird-2/000006.png",
+                "Assets/Bird-2/000007.png",
+                "Assets/Bird-2/000008.png",
+                "Assets/Bird-2/000009.png",
+                "Assets/Bird-2/000010.png",
+                "Assets/Bird-2/000011.png",
+                "Assets/Bird-2/000012.png",
+                "Assets/Bird-2/000013.png",
+                "Assets/Bird-2/000014.png",
+                "Assets/Bird-2/000015.png",
+                "Assets/Bird-2/000016.png",
+                "Assets/Bird-2/000017.png",
+                "Assets/Bird-2/000018.png",
+                "Assets/Bird-2/000019.png",
+                "Assets/Bird-2/000020.png",
+                "Assets/Bird-2/000021.png",
+                "Assets/Bird-2/000022.png",
+                "Assets/Bird-2/000023.png",
+                "Assets/Bird-2/000024.png",
+                "Assets/Bird-2/000025.png",
+                "Assets/Bird-2/000026.png",
+                "Assets/Bird-2/000027.png",
+                "Assets/Bird-2/000028.png",
+                "Assets/Bird-2/000029.png",
+                "Assets/Bird-2/000030.png",
+                "Assets/Bird-2/000031.png",
+                "Assets/Bird-2/000032.png",
+                "Assets/Bird-2/000033.png",
+                "Assets/Bird-2/000034.png"
+            ]
+        },
+        {
+            "BundleName": "default_birdprefab2.bundle",
+            "FileName": "default_birdprefab2.bundle",
+            "FileHash": "7145302fc6923788ef709bf1c3bb5886",
+            "FileCRC": "03eaad3b",
+            "FileSize": 3707,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "default_brid2atlas.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/UIPrefab-brid2.prefab"
+            ]
+        }
+    ],
+    "RedundancyInfos": []
+}

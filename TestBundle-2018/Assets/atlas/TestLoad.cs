@@ -31,6 +31,11 @@ public class TestLoad : MonoBehaviour
     {
         var ab = LoadAB("atlas");
         print(ab);
+        if (ab == null)
+        {
+            ab = bundles.First(x => x !=null && x.name == "atlas");
+        }
+        print("ab2: " + ab);
         atlas = ab.LoadAsset<SpriteAtlas>("atlas");
         print(atlas);
     }
@@ -57,7 +62,15 @@ public class TestLoad : MonoBehaviour
     {
         var path = "AssetBundles/" + folderName + "/" + abName;
 
-        var ab = AssetBundle.LoadFromFile(path);
+        AssetBundle ab = null;
+        try
+        {
+            ab = AssetBundle.LoadFromFile(path);
+        }
+        catch (System.Exception e)
+        {
+            Debug.Log("hit catch" + e); // unhit
+        }
         if (ab != null)
         {
             var list = bundles.ToList();
@@ -88,4 +101,20 @@ public class TestLoad : MonoBehaviour
     {
         UnloadAB("prefab");
     }
+
+    public void ResouceUnloadUnused()
+    {
+        Resources.UnloadUnusedAssets().completed += (_) => System.GC.Collect(); ;
+    }
+
+    public void ABUnloadAll()
+    {
+        var abs = AssetBundle.GetAllLoadedAssetBundles();
+        print(abs.Count());
+        foreach (var ab in abs)
+        {
+            ab.Unload(true);
+        }
+    }
+
 }
