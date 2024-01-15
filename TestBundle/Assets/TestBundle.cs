@@ -63,6 +63,49 @@ public class TestBundle : MonoBehaviour
         img.sprite = sp;
     }
 
+
+    [Button("LoadAtlasAndChangeImgAsync")]
+    public void LoadAtlasAndChangeImgAsync()
+    {
+        AssetBundle ab = null;
+        var abs = AssetBundle.GetAllLoadedAssetBundles();
+        foreach (var bundle in abs)
+        {
+            if (bundle.name.Contains(atlasBundleName))
+            {
+                ab = bundle;
+                var atlas = ab.LoadAsset<SpriteAtlas>("Assets/bird2x/bird2.spriteatlas");
+                //var atlas = ab.LoadAsset<SpriteAtlas>("bird2");
+                var index = UnityEngine.Random.Range(0, atlas.spriteCount);
+                var spName = "0000" + index.ToString("d2");
+                var sp = atlas.GetSprite(spName);
+                print($"{spName} {sp}");
+                img.sprite = sp;
+            }
+        }
+        if (ab == null)
+        {
+
+            var p = Application.streamingAssetsPath + "/" + ABRoot + atlasBundleName;
+            var op = AssetBundle.LoadFromFileAsync(p);
+            op .completed +=(baseOp =>
+            {
+                ab = op.assetBundle;
+                var atlas = ab.LoadAsset<SpriteAtlas>("Assets/bird2x/bird2.spriteatlas");
+                //var atlas = ab.LoadAsset<SpriteAtlas>("bird2");
+                var index = UnityEngine.Random.Range(0, atlas.spriteCount);
+                var spName = "0000" + index.ToString("d2");
+                var sp = atlas.GetSprite(spName);
+                print($"{spName} {sp}");
+                img.sprite = sp;
+
+            });
+        }
+
+    }
+
+
+
     public void SetImageSPNull()
     {
         img.sprite = null;
