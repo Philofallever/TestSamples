@@ -120,8 +120,18 @@ public class TestBundle : MonoBehaviour
         var abs = AssetBundle.GetAllLoadedAssetBundles();
         foreach (var ab in abs)
         {
-            if (ab.name.Contains(atlasBundleName, System.StringComparison.OrdinalIgnoreCase) || ab.name.Contains("default_brid2png", StringComparison.OrdinalIgnoreCase))
+            if (ab.name.Contains(atlasBundleName, System.StringComparison.OrdinalIgnoreCase))
+            {
+                var atlas = ab.LoadAsset<SpriteAtlas>("Assets/bird2x/bird2.spriteatlas");
+                Resources.UnloadAsset(atlas);
                 ab.Unload(false);
+
+            }
+            else if (ab.name.Contains("default_brid2png", StringComparison.OrdinalIgnoreCase))
+            {
+
+                ab.Unload(false);
+            }
         }
     }
 
